@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: rgb(143, 21, 110);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+}
+.button:hover {
+    background-color: #099d21;
+}
